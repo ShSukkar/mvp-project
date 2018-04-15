@@ -1,0 +1,27 @@
+{
+  "name": "angularjs-mvp",
+  "version": "1.0.0",
+  "description": "1st mvp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShSukkar/mvp-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShSukkar/mvp-project/issues"
+  },
+  "homepage": "https://github.com/ShSukkar/mvp-project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "default": "^0.1.1",
+    "engine": "^0.1.12",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.14",
+    "nodemon": "^1.17.3"
+  }
+}
